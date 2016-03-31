@@ -1,0 +1,11 @@
+body {
+  width: 90%
+  margin: 0 auto;
+}
+
+.imageOne, .imageTwo, .imageThree {
+  width: 300px;
+  float: left;
+  margin: 10px;
+  display: inline-block;
+}
